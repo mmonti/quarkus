@@ -19,7 +19,7 @@
     <jgrapht.version>1.3.1</jgrapht.version>
     <commons-collections.version>3.2.2</commons-collections.version>
     <vecmath.version>1.5.2</vecmath.version>
-    <guava.version>27.1-jre</guava.version>
+    <guava.version>29.0-jre</guava.version>
     <checker-qual.version>2.2.1-3-48c14e2</checker-qual.version>
     <java2d.version>8.0.1</java2d.version>
     <org.kie.kogito.version>0.1.3</org.kie.kogito.version>
